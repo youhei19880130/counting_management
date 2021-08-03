@@ -1,0 +1,2 @@
+# counting_management
+計数管理のためのクローリングシステム
